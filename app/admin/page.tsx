@@ -94,6 +94,7 @@ export default function AdminPage() {
                   {sold ? "✕" : "🎮"}
                 </div>
               );
+              
             })}
           </div>
           <div style={{ display: "flex", gap: 16, fontSize: 11 }}>
